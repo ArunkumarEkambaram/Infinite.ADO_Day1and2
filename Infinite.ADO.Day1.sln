@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infinite.ADO.Day1", "Infinite.ADO.Day1\Infinite.ADO.Day1.csproj", "{26C9B193-3BD8-424C-9557-333E42402782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.Disconnected", "ADO.Disconnected\ADO.Disconnected.csproj", "{7A7332FF-D62D-4E9B-9124-1644698DB237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C9B193-3BD8-424C-9557-333E42402782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C9B193-3BD8-424C-9557-333E42402782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C9B193-3BD8-424C-9557-333E42402782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C9B193-3BD8-424C-9557-333E42402782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7332FF-D62D-4E9B-9124-1644698DB237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7332FF-D62D-4E9B-9124-1644698DB237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7332FF-D62D-4E9B-9124-1644698DB237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7332FF-D62D-4E9B-9124-1644698DB237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC8AE87E-0E65-4ABE-A884-F2FAE002E402}
+	EndGlobalSection
+EndGlobal
